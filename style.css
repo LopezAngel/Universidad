@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Redressed&display=swap');
+
+body{
+    background: linear-gradient(273deg,  rgb(36, 34, 34) 1%, rgba(130,191,237,1) 100%);
+}
+
+h1{
+    font-family: 'Redressed';
+    color: white;
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(233, 207, 151);
+    text-decoration: none;
+}
+
+ul{
+    display: flex;
+    justify-content: right;
+    list-style-type: none;
+    margin: 0 5px;
+    padding: 0;
+}
+
+li{
+    padding: 15px;
+}
+
+li:hover{
+    background-color: rgb(218, 210, 194);
+    color: blueviolet;
+    /*color: rgba(130,191,237,1);*/
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.texto{
+    position: absolute;
+    left: 150px;
+}
+
+.img1{
+    
+}
+
